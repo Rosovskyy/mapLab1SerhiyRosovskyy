@@ -16,10 +16,10 @@ $ pip3 install pandas
 
 ## Getting started
 1. For this program to work, all files need to be in one place.
-2. You need to run file worldMapSerhiyRosovskyy.py
-3. Enter all needed information
-4. A new folder called map.html has created
-5. Open this file
-6. In the upper right corner you can control layers
-# mapLab1SerhiyRosovskyy
+2. Also, you need to download file 'locations.list' from the Programming Task 1
+3. You need to run file worldMapSerhiyRosovskyy.py
+4. Enter all needed information
+5. A new folder called map.html has created
+6. Open this file
+7. In the upper right corner you can control layers
 # mapLab1SerhiyRosovskyy
