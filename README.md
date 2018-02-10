@@ -22,4 +22,9 @@ $ pip3 install pandas
 5. A new folder called map.html has created
 6. Open this file
 7. In the upper right corner you can control layers
+
+---
+
+## License and copyright
+© Serhiy Rosovskyy, student of the Ukrainian Catholic University
 # mapLab1SerhiyRosovskyy
