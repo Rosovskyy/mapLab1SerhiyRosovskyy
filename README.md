@@ -10,6 +10,7 @@ To use this program, you need to install next packages:
 '''
 $ pip3 install folium
 $ pip3 install pandas
+$ pip3 install requests
 '''
 
 ---
